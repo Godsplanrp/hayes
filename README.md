@@ -221,7 +221,7 @@ function resetCalculator() {
 <div style="margin-bottom: 25px;"></div>
  
 <body style="background-color:lightblue;">
-	<img src="hayes.png" alt="Company Logo!">
+	<img src="redline.png" alt="Company Logo!">
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>
@@ -426,7 +426,7 @@ function resetCalculator() {
   
   <div>
     <input type="checkbox" id="uwueats" value="1000$">
-    <label for="Velmachoice">EMS, LEO, DOC, DOJ, UWU & DeathRow A-D - 1000$</label>
+    <label for="Velmachoice">EMS, LEO, DOC, DOJ, UWU - 1000$</label>
     <input type="number" value="1" min="1">
   </div>
   
